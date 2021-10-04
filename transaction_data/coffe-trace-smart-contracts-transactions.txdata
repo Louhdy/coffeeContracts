@@ -1,0 +1,58 @@
+[
+    {
+        "transactionName": "coffeTraceSmartContractsExists",
+        "transactionLabel": "A test coffeTraceSmartContractsExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createCoffeTraceSmartContracts",
+        "transactionLabel": "A test createCoffeTraceSmartContracts transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {
+            "privateValue": "some value"
+        }
+    },
+    {
+        "transactionName": "readCoffeTraceSmartContracts",
+        "transactionLabel": "A test readCoffeTraceSmartContracts transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateCoffeTraceSmartContracts",
+        "transactionLabel": "A test updateCoffeTraceSmartContracts transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {
+            "privateValue": "some other value"
+        }
+    },
+    {
+        "transactionName": "deleteCoffeTraceSmartContracts",
+        "transactionLabel": "A test deleteCoffeTraceSmartContracts transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "verifyCoffeTraceSmartContracts",
+        "transactionLabel": "A test verifyCoffeTraceSmartContracts transaction",
+        "arguments":[
+            "Org1MSP",
+            "001",
+            {
+                "privateValue": "some other value"
+            }
+        ],
+        "transientData": {}
+    }
+]

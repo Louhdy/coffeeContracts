@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "coffeeTraceNoRestrictiveExists",
+        "transactionLabel": "A test coffeeTraceNoRestrictiveExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createCoffeeTraceNoRestrictive",
+        "transactionLabel": "A test createCoffeeTraceNoRestrictive transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readCoffeeTraceNoRestrictive",
+        "transactionLabel": "A test readCoffeeTraceNoRestrictive transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateCoffeeTraceNoRestrictive",
+        "transactionLabel": "A test updateCoffeeTraceNoRestrictive transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteCoffeeTraceNoRestrictive",
+        "transactionLabel": "A test deleteCoffeeTraceNoRestrictive transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
