@@ -1,7 +1,8 @@
 'use strict';
 
 class Reception {
-    constructor(producer, seedType, amountBags) {
+    constructor(receptionId, producer, seedType, amountBags) {
+        this.receptionId = receptionId;
         this.producer = producer;
         this.seedType = seedType;
         this.amountBags = amountBags;

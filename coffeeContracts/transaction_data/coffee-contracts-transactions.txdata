@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "coffeeContractsExists",
+        "transactionLabel": "A test coffeeContractsExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createCoffeeContracts",
+        "transactionLabel": "A test createCoffeeContracts transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readCoffeeContracts",
+        "transactionLabel": "A test readCoffeeContracts transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateCoffeeContracts",
+        "transactionLabel": "A test updateCoffeeContracts transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteCoffeeContracts",
+        "transactionLabel": "A test deleteCoffeeContracts transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
